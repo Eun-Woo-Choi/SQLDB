@@ -1,0 +1,16 @@
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.deps.json
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.json
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.runtimeconfig.dev.json
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.dll
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Data.pdb
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Entity.dll
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\bin\Debug\netcoreapp3.1\CMS.Entity.pdb
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfoInputs.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.AssemblyInfo.cs
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CoreCompileInputs.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.CopyComplete
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.dll
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.pdb
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.genruntimeconfig.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.csproj.AssemblyReference.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Data\obj\Debug\netcoreapp3.1\CMS.Data.GeneratedMSBuildEditorConfig.editorconfig

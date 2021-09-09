@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Page>
+@{
+    ViewData["Title"] = "List";
+}
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title">Page List</h4>
+            </div>
+            <div class="card-body">
+                <div class="table table-responsive table-responsive-sm">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Title</th>
+                                <th>Content</th>
+                                <th>Slug</th>
+                                <th>Status</th>
+                                <th>Edit</th>
+                                <th>Remove</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (Page item in Model)
+                            {
+                                <tr>
+                                    <td>@item.PageId</td>
+                                    <td>@item.Title</td>
+                                    <td>@item.Content</td>
+                                    <td>@item.Slug</td>
+                                    <td>@item.Status</td>
+                                    <td>
+                                        <a asp-action="Edit" asp-route-id="@item.PageId" class="btn btn-outline-warning btn-sm">Edit</a>
+                                    </td>
+                                    <td>
+                                        <a asp-action="Remove" asp-route-id="@item.PageId" class="btn btn-outline-danger btn-sm confirmDeletion">Remove</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Create" class="btn btn-outline-dark btn-block">Create A New Page</a>
+            </div>
+        </div>
+    </div>
+</div>

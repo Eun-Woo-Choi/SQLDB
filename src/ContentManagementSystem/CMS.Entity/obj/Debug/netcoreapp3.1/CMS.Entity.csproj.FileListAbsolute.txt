@@ -1,0 +1,13 @@
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\bin\Debug\netcoreapp3.1\CMS.Entity.deps.json
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\bin\Debug\netcoreapp3.1\CMS.Entity.runtimeconfig.json
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\bin\Debug\netcoreapp3.1\CMS.Entity.runtimeconfig.dev.json
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\bin\Debug\netcoreapp3.1\CMS.Entity.dll
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\bin\Debug\netcoreapp3.1\CMS.Entity.pdb
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.AssemblyInfoInputs.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.AssemblyInfo.cs
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.csproj.CoreCompileInputs.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.dll
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.pdb
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.genruntimeconfig.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.csproj.AssemblyReference.cache
+D:\C#_Practice\MakeSQLDB\src\ContentManagementSystem\CMS.Entity\obj\Debug\netcoreapp3.1\CMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
